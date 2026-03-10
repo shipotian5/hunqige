@@ -1,0 +1,25 @@
+# OpenClaw specific
+.openclaw/
+.clawhub/
+*.tar.gz
+*.tar.gz.b64
+*.b64
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Build artifacts
+node_modules/
+dist/
+build/
